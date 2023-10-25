@@ -1,1 +1,1 @@
-# MNEN-Network-Data
+In the experiment of the influential node identification performance of the MNEN method, ten real networks are used for validation: the Protein network, the Email network, the Ca-Erdos network, the Ca-Astroph network, the Karate network, the Dolphins network, the USAir network, the Euroroad network, the Ca-GrQc network, and the Powergrid network.
